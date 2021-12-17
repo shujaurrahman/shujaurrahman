@@ -5,9 +5,9 @@ I love coding Web projects😄
 ⚡ Fun fact:
 - 👯 I’m looking to collaborate on projects that are related to web devlopment.
 - 🌱 I’m currently exploring.
-- :pencil2: I Write blogs Sometimes. [Blogs](https://rahmansahab210.blogspot.com/)
+- :pencil2: I Write blogs Sometimes: [Blogs](https://rahmansahab210.blogspot.com/)
 - :musical_note: I love to hear music.
-- 📫 How to reach me:**shujaurrehman210@gmail.com**
+- 📫 How to reach me: **shujaurrehman210@gmail.com**
 - 👨‍💻 You can also check out my portfolio at: [Shuja-on-web](https://shujaurrahman.github.io/shuja-on-web/)
 
 
