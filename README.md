@@ -8,7 +8,7 @@ I love coding Web projects😄
 - :pencil2: I Write blogs Sometimes. [Blogs](https://rahmansahab210.blogspot.com/)
 - :musical_note: I love to hear music.
 - 📫 How to reach me:**shujaurrehman210@gmail.com**
-- 👨‍💻 You can also check out my portfolio at:[shuja-on-web](https://shujaurrahman.github.io/shuja-on-web/)
+- 👨‍💻 You can also check out my portfolio at: [Shuja-on-web](https://shujaurrahman.github.io/shuja-on-web/)
 
 
 ### Let's Connect :coffee:
