@@ -1,4 +1,4 @@
-![alt text](top.jpg)
+![alt text](image.jpg)
 
 I love coding Web projects😄
 
