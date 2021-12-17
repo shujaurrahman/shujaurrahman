@@ -27,4 +27,4 @@ I love coding Web projects😄
 
 
 
-![alt text](bottom.svg)
+![alt text](bottom.jpg)
