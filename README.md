@@ -3,7 +3,7 @@
 I love coding Web projects😄
 
 ⚡ Fun fact:
-- 👯 I’m looking to collaborate on projects that are related to web devlopment.
+- 👯 I’m looking to collaborate on projects that are related to web development.
 - 🌱 I’m currently exploring.
 - :pencil2: I Write blogs Sometimes: [Blogs](https://rahmansahab210.blogspot.com/)
 - :musical_note: I love to hear music.
