@@ -1,6 +1,6 @@
 ![alt text](top.jpg)
 
-I love coding Web projects�⚡
+I love coding Web projects⚡
 - 👯 I’m looking to collaborate on projects that are related to web development.
 - 🌱 I’m currently exploring.
 - :pencil2: I Write blogs Sometimes: [Blogs](https://rahmansahab210.blogspot.com/)
