@@ -11,13 +11,6 @@ I love coding Web projects😄
 - 👨‍💻 You can also check out my portfolio at: [Shuja-on-web](https://shujaurrahman.github.io/shuja-on-web/)
 
 
-### Let's Connect :coffee:
-<p align="center">
-	<a href="https://github.com/shujaurrahman"><img src="https://img.icons8.com/bubbles/50/000000/github.png" alt="GitHub"/></a>
-	<a href="https://www.linkedin.com/in/shuja-u-934230110/"><img src="https://img.icons8.com/bubbles/50/000000/linkedin.png" alt="LinkedIn"/></a>
-	<a href="https://www.instagram.com/shujaurrahman_/"><img src="https://img.icons8.com/bubbles/50/000000/instagram.png" alt="Instagram"/></a>
-	<a href="https://twitter.com/s_rhmaan"><img src="https://img.icons8.com/bubbles/50/000000/twitter.png" alt="Twitter"/></a>
-</p>
 
 
 
@@ -27,5 +20,13 @@ I love coding Web projects😄
 
 <br/>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shujaurrahman&label=Profile%20views&color=0e75b6&style=flat" alt="shujaurrahman" /> </p>
+
+### Let's Connect :coffee:
+<p align="center">
+	<a href="https://github.com/shujaurrahman"><img src="https://img.icons8.com/bubbles/50/000000/github.png" alt="GitHub"/></a>
+	<a href="https://www.linkedin.com/in/shuja-u-934230110/"><img src="https://img.icons8.com/bubbles/50/000000/linkedin.png" alt="LinkedIn"/></a>
+	<a href="https://www.instagram.com/shujaurrahman_/"><img src="https://img.icons8.com/bubbles/50/000000/instagram.png" alt="Instagram"/></a>
+	<a href="https://twitter.com/s_rhmaan"><img src="https://img.icons8.com/bubbles/50/000000/twitter.png" alt="Twitter"/></a>
+</p>
 
 ![alt text](bottom.jpg)
