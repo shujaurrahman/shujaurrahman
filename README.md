@@ -6,7 +6,7 @@ I love coding Web projects⚡
 - :pencil2: I Write blogs Sometimes: [Blogs](https://rahmansahab210.blogspot.com/)
 - :musical_note: I love music.
 - 📫 How to reach me: **shujaurrehman210@gmail.com**
-- 👨‍💻 You can also check out Portfolio based on Linux-Terminal (GUI Under Devlopment) at: [Live-Terminal-Portfolio](https://liveterminal.vercel.app/)
+- 👨‍💻 check out Web based Terminal Portfolio (GUI Under Devlopment) at: [Live-Terminal-Portfolio](https://liveterminal.vercel.app/)
 -
 
 
