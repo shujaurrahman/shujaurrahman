@@ -3,11 +3,10 @@
 I love coding Web projects⚡
 - 👯 I’m looking to collaborate on projects that are related to web development.
 - 🌱 I’m currently exploring.
-- :pencil2: I Write blogs Sometimes: [Blogs](https://rahmansahab210.blogspot.com/)
+- :pencil2: I Write blogs Sometimes: [Blogs](https://blog-shujaurrahman.vercel.app/)
 - :musical_note: I love music.
 - 📫 How to reach me: **shujaurrehman210@gmail.com**
-- 👨‍💻 check out Web based Terminal Portfolio (GUI Under Devlopment) at: [Live-Terminal-Portfolio](https://liveterminal.vercel.app/)
--
+- 👨‍💻 Shuja's tiny space on web: [shujaurrahman.me](https://shujaurrahman.me)
 
 
 
