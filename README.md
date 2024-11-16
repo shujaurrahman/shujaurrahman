@@ -3,7 +3,7 @@
 I love coding Web projects⚡
 - 👯 I’m looking to collaborate on projects that are related to web development.
 - 🌱 I’m currently exploring.
-- :pencil2: I Write blogs Sometimes: [Blogs](https://blog-shujaurrahman.vercel.app/)
+- :pencil2: I Write blogs Sometimes: [Blogs](https://shujaurrahman.me/blogs/)
 - :musical_note: I love music.
 - 📫 How to reach me: **shujaurrehman210@gmail.com**
 - 👨‍💻 Shuja's tiny space on web: [shujaurrahman.me](https://shujaurrahman.me)
