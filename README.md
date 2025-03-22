@@ -1,30 +1,73 @@
 ![alt text](top.jpg)
 
-I love coding Web projects⚡
-- 👯 I’m looking to collaborate on projects that are related to web development.
-- 🌱 I’m currently exploring.
-- :pencil2: I Write blogs Sometimes: [Blogs](https://shujaurrahman.me/blogs/)
-- :musical_note: I love music.
-- 📫 How to reach me: **shujaurrehman210@gmail.com**
-- 👨‍💻 Shuja's tiny space on web: [shujaurrahman.me](https://shujaurrahman.me)
+<h1 align="center"> 🚀 Shuja Ur Rahman</h1>
 
-
-
-
-
-### Languages and Tools:
-<p align="left"> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a><a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a><a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a><a href="https://www.php.net" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a><a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a><a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a><a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/></a><a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a><a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/></a></p>
-
-### Let's Connect :coffee:
 <p align="center">
-	<a href="https://github.com/shujaurrahman"><img src="https://img.icons8.com/bubbles/50/000000/github.png" alt="GitHub"/></a>
-	<a href="https://www.linkedin.com/in/shuja-u-934230110/"><img src="https://img.icons8.com/bubbles/50/000000/linkedin.png" alt="LinkedIn"/></a>
-	<a href="https://www.instagram.com/shujaurrahman_/"><img src="https://img.icons8.com/bubbles/50/000000/instagram.png" alt="Instagram"/></a>
+  <img src="https://readme-typing-svg.herokuapp.com?color=%23F7B93E&size=25&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;Machine+Learning+Enthusiast;Tech+Innovator;Passionate+Problem+Solver;Open-Source+Contributor" alt="Typing SVG">
 </p>
 
-<br/>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=shujaurrahman&label=Profile%20views&color=0e75b6&style=flat" alt="shujaurrahman" /> </p>
+---
 
+### 🌟 About Me  
+💡 Passionate **Full Stack Developer**, **AI Enthusiast**, and **Tech Innovator**.  
+🚀 Currently building scalable and impactful solutions at **[The Sixty-One, Dubai](https://shujaurrahman.me)**.  
+🎓 Pursuing **Master of Computer Applications (MCA)** @ *Aligarh Muslim University* (2023-2025).  
+🛠 **Loves coding, problem-solving, and collaborating on open-source projects.**  
+🌍 Exploring **Machine Learning, Cloud Computing, and AI Integration**.  
+📖 Always learning and experimenting with new technologies!  
 
+---
+
+### 🚀 Tech Stack  
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,php,python,react,nextjs,flask,bootstrap,tailwind,git,github,mysql,postgres,docker,gcp,linux,vscode" />
+</p>
+
+---
+
+### 💼 Featured Projects  
+📌 **[AI Integration Feasibility Analyzer](https://shujaurrahman.me/projects/ai-analyzer)** – ML-powered AI readiness tool.  
+📚 **[AMU PYQ Papers](https://shujaurrahman.me/projects/pyq)** – University exam resource with LLM-powered solutions.  
+🔐 **[Encrypted Chat App](https://shujaurrahman.me/projects/chat-app)** – Secure chat system using **AES encryption**.  
+🎵 **[Spotify Now Playing](https://shujaurrahman.me/projects/spotify-widget)** – Real-time **Spotify** track display.  
+🖥️ **[Portfolio Website](https://shujaurrahman.me)** – Dynamic portfolio with **API-driven updates**.  
+
+---
+
+### 📊 GitHub Stats & Activity  
+<p align="center">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=shujaurrahman&show_icons=true&theme=tokyonight" />
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=shujaurrahman&theme=tokyonight" />
+</p>
+<p align="center">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shujaurrahman&layout=compact&theme=tokyonight" />
+</p>
+
+---
+
+### 🏆 Achievements  
+✅ **Open Source Contributor** – Contributed to multiple projects & repositories.  
+✅ **Freelancer** – Delivered **4+ custom web projects** with 93% client satisfaction.  
+✅ **Certified Developer** – Google Cloud, JavaScript, Python Pro Bootcamp, and more.  
+
+---
+
+### 🔥 Fun Facts  
+🎧 **Music Lover** – Coding feels better with a good playlist! 🎵  
+🎮 **Casual Gamer** – Love to unwind with strategy & simulation games.  
+💡 **Tech Explorer** – Always diving into new frameworks & tools!  
+
+---
+
+### ☕ Let's Connect  
+<p align="center">
+  <a href="https://github.com/shujaurrahman"><img src="https://img.icons8.com/bubbles/50/000000/github.png" alt="GitHub"/></a>
+  <a href="https://www.linkedin.com/in/shuja-u-934230110/"><img src="https://img.icons8.com/bubbles/50/000000/linkedin.png" alt="LinkedIn"/></a>
+  <a href="https://www.instagram.com/shujaurrahman_/"><img src="https://img.icons8.com/bubbles/50/000000/instagram.png" alt="Instagram"/></a>
+</p>
+
+📫 **Reach me at**: shujaurrehman210@gmail.com  
+🌐 **Explore my work**: [shujaurrahman.me](https://shujaurrahman.me)  
+💬 **Let’s build something amazing together! 🚀**
 
 ![alt text](bottom.jpg)
