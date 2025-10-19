@@ -47,7 +47,7 @@
 
 ### 🏆 Achievements  
 ✅ **Open Source Contributor** – Contributed to multiple projects & repositories.  
-✅ **Freelancer** – Delivered **4+ custom web projects** with 93% client satisfaction.  
+✅ **Freelancer** – Delivered **40+ custom web projects** with 93% client satisfaction.  
 ✅ **Certified Developer** – Google Cloud, JavaScript, Python Pro Bootcamp, and more.  
 
 ---
@@ -67,7 +67,7 @@
 </p>
 
 📫 **Reach me at**: shujaurrehman210@gmail.com  
-🌐 **Explore my work**: [shujaurrahman.me](https://shujaurrahman.me)  
+🌐 **Explore my work**: [shujaurrahman.com](https://shujaurrahman.com)  
 💬 **Let’s build something amazing together! 🚀**
 
 ![alt text](bottom.jpg)
