@@ -11,7 +11,7 @@
 ### 🌟 About Me  
 💡 Passionate **Full Stack Developer**, **AI Enthusiast**, and **Tech Innovator**.  
 🚀 Currently building scalable and impactful solutions at **[The Sixty-One, Dubai](https://shujaurrahman.me)**.  
-🎓 Pursuing **Master of Computer Applications (MCA)** @ *Aligarh Muslim University* (2023-2025).  
+🎓  **Master of Computer Applications (MCA)** @ *Aligarh Muslim University* (2023-2025).  
 🛠 **Loves coding, problem-solving, and collaborating on open-source projects.**  
 🌍 Exploring **Machine Learning, Cloud Computing, and AI Integration**.  
 📖 Always learning and experimenting with new technologies!  
